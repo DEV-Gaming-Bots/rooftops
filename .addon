@@ -1,0 +1,22 @@
+{
+  "Title": "Rooftops",
+  "Type": "map",
+  "Org": "devbots",
+  "Ident": "rooftops",
+  "Tags": null,
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "ResourcePaths": null,
+  "HasCode": false,
+  "CodePath": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "GameSupport": [
+      "facepunch.dm98"
+    ],
+    "Summary": "A rooftop deathmatch map",
+    "Description": "",
+    "Public": true
+  }
+}
